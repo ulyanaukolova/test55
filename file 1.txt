@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dhdhdjdjjd
+=======
+privet pasha
+>>>>>>> fb33b9474e19f6db96bcced9b604b2e060c20991
